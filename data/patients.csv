@@ -1,0 +1,61 @@
+PatientID,Name,Age,Gender,BloodGroup,Department,AdmissionDate,DischargeDate,DiagnosisCode,Diagnosis,DoctorName,TreatmentCost,InsuranceCovered,OutOfPocket,PaymentStatus,HospitalStayDays,Readmission,Satisfaction
+P001,Aarav Sharma,45,Male,A+,Cardiology,2024-01-03,2024-01-08,I21,Acute Myocardial Infarction,Dr. Priya Nair,85000,72000,13000,Paid,5,No,4
+P002,Meera Iyer,32,Female,B+,Gynecology,2024-01-05,2024-01-07,O80,Normal Delivery,Dr. Sunita Rao,30000,25000,5000,Paid,2,No,5
+P003,Ravi Kumar,60,Male,O-,Orthopedics,2024-01-06,2024-01-14,M16,Hip Osteoarthritis,Dr. Arjun Mehta,120000,90000,30000,Paid,8,No,3
+P004,Sita Devi,28,Female,AB+,General Medicine,2024-01-07,2024-01-09,J06,Upper Respiratory Infection,Dr. Ramesh Pillai,8000,6000,2000,Paid,2,No,5
+P005,Kiran Patel,52,Male,A-,Neurology,2024-01-08,2024-01-15,G43,Migraine,Dr. Neha Sharma,45000,36000,9000,Pending,7,No,4
+P006,Anjali Singh,38,Female,B-,Oncology,2024-01-10,2024-01-20,C50,Breast Cancer,Dr. Vijay Menon,250000,200000,50000,Paid,10,Yes,3
+P007,Mohan Rao,70,Male,O+,Cardiology,2024-01-11,2024-01-18,I50,Heart Failure,Dr. Priya Nair,95000,80000,15000,Paid,7,Yes,2
+P008,Lakshmi Reddy,44,Female,A+,Endocrinology,2024-01-12,2024-01-14,E11,Type 2 Diabetes,Dr. Kavita Joshi,22000,18000,4000,Paid,2,No,4
+P009,Suresh Nair,55,Male,B+,Pulmonology,2024-01-13,2024-01-19,J45,Asthma,Dr. Anand Kumar,38000,30000,8000,Paid,6,No,4
+P010,Deepa Menon,29,Female,AB-,Dermatology,2024-01-15,2024-01-16,L30,Eczema,Dr. Preethi Das,5000,4000,1000,Paid,1,No,5
+P011,Rahul Gupta,63,Male,O+,Nephrology,2024-01-16,2024-01-25,N18,Chronic Kidney Disease,Dr. Suresh Babu,140000,112000,28000,Paid,9,Yes,3
+P012,Priya Krishnan,35,Female,A+,Gynecology,2024-01-17,2024-01-19,N83,Ovarian Cyst,Dr. Sunita Rao,42000,35000,7000,Paid,2,No,5
+P013,Venkat Reddy,48,Male,B+,Orthopedics,2024-01-18,2024-01-24,M54,Lower Back Pain,Dr. Arjun Mehta,55000,44000,11000,Pending,6,No,3
+P014,Nisha Thomas,22,Female,O+,General Medicine,2024-01-19,2024-01-20,A09,Gastroenteritis,Dr. Ramesh Pillai,6000,5000,1000,Paid,1,No,5
+P015,Arun Pillai,58,Male,A-,Cardiology,2024-01-20,2024-01-27,I25,Coronary Artery Disease,Dr. Priya Nair,180000,144000,36000,Paid,7,No,4
+P016,Savitha Bhat,41,Female,B+,Oncology,2024-01-21,2024-02-01,C18,Colon Cancer,Dr. Vijay Menon,280000,224000,56000,Paid,11,Yes,3
+P017,Dinesh Kaur,67,Male,O-,Neurology,2024-01-22,2024-01-29,G30,Alzheimer's Disease,Dr. Neha Sharma,75000,60000,15000,Pending,7,No,3
+P018,Rekha Jain,30,Female,A+,Gynecology,2024-01-23,2024-01-24,N92,Menstrual Disorder,Dr. Sunita Rao,12000,9600,2400,Paid,1,No,4
+P019,Manoj Tiwari,50,Male,B-,Pulmonology,2024-01-24,2024-01-30,J44,COPD,Dr. Anand Kumar,65000,52000,13000,Paid,6,Yes,3
+P020,Geeta Nambiar,36,Female,AB+,Endocrinology,2024-01-25,2024-01-26,E03,Hypothyroidism,Dr. Kavita Joshi,9000,7200,1800,Paid,1,No,5
+P021,Sunil Verma,42,Male,O+,Cardiology,2024-02-01,2024-02-06,I10,Hypertension,Dr. Priya Nair,28000,22400,5600,Paid,5,No,4
+P022,Pooja Shetty,27,Female,A+,General Medicine,2024-02-02,2024-02-03,K29,Gastritis,Dr. Ramesh Pillai,7000,5600,1400,Paid,1,No,5
+P023,Harish Menon,54,Male,B+,Nephrology,2024-02-03,2024-02-10,N20,Kidney Stone,Dr. Suresh Babu,48000,38400,9600,Paid,7,No,4
+P024,Asha Pillai,61,Female,O+,Oncology,2024-02-04,2024-02-15,C34,Lung Cancer,Dr. Vijay Menon,320000,256000,64000,Pending,11,Yes,2
+P025,Rajesh Nair,47,Male,A-,Orthopedics,2024-02-05,2024-02-11,M17,Knee Osteoarthritis,Dr. Arjun Mehta,88000,70400,17600,Paid,6,No,4
+P026,Usha Rani,33,Female,B+,Dermatology,2024-02-06,2024-02-07,L50,Urticaria,Dr. Preethi Das,4500,3600,900,Paid,1,No,5
+P027,Prakash Iyer,69,Male,O+,Cardiology,2024-02-07,2024-02-14,I48,Atrial Fibrillation,Dr. Priya Nair,110000,88000,22000,Paid,7,Yes,3
+P028,Lalitha Krishnan,39,Female,AB+,Gynecology,2024-02-08,2024-02-10,O21,Hyperemesis Gravidarum,Dr. Sunita Rao,18000,14400,3600,Paid,2,No,4
+P029,Girish Kumar,56,Male,A+,Neurology,2024-02-09,2024-02-16,G40,Epilepsy,Dr. Neha Sharma,62000,49600,12400,Paid,7,No,4
+P030,Divya Rajan,24,Female,O-,General Medicine,2024-02-10,2024-02-11,J18,Pneumonia,Dr. Ramesh Pillai,15000,12000,3000,Paid,1,No,5
+P031,Bhaskar Rao,73,Male,B-,Cardiology,2024-02-12,2024-02-20,I21,Acute Myocardial Infarction,Dr. Priya Nair,92000,73600,18400,Paid,8,Yes,2
+P032,Sneha Pillai,31,Female,A+,Endocrinology,2024-02-13,2024-02-14,E10,Type 1 Diabetes,Dr. Kavita Joshi,25000,20000,5000,Paid,1,No,5
+P033,Anand Sharma,49,Male,O+,Pulmonology,2024-02-14,2024-02-20,J98,Pleural Effusion,Dr. Anand Kumar,72000,57600,14400,Paid,6,No,3
+P034,Kamala Devi,65,Female,A-,Orthopedics,2024-02-15,2024-02-23,M80,Osteoporosis Fracture,Dr. Arjun Mehta,98000,78400,19600,Paid,8,No,3
+P035,Vivek Reddy,37,Male,B+,General Medicine,2024-02-16,2024-02-18,B34,Viral Fever,Dr. Ramesh Pillai,9000,7200,1800,Paid,2,No,4
+P036,Kavitha Menon,43,Female,O+,Nephrology,2024-02-17,2024-02-24,N04,Nephrotic Syndrome,Dr. Suresh Babu,85000,68000,17000,Pending,7,Yes,3
+P037,Naresh Patel,58,Male,A+,Oncology,2024-02-18,2024-03-01,C61,Prostate Cancer,Dr. Vijay Menon,290000,232000,58000,Paid,11,No,4
+P038,Radha Kumari,26,Female,B+,Gynecology,2024-02-19,2024-02-21,O34,Placenta Previa,Dr. Sunita Rao,55000,44000,11000,Paid,2,No,4
+P039,Chandran Nair,71,Male,O-,Neurology,2024-02-20,2024-02-27,G20,Parkinson's Disease,Dr. Neha Sharma,68000,54400,13600,Paid,7,No,3
+P040,Meenakshi Iyer,34,Female,AB-,Dermatology,2024-02-21,2024-02-22,L40,Psoriasis,Dr. Preethi Das,6500,5200,1300,Paid,1,No,4
+P041,Subramaniam R,62,Male,A+,Cardiology,2024-03-01,2024-03-09,I35,Aortic Stenosis,Dr. Priya Nair,155000,124000,31000,Paid,8,No,4
+P042,Parvathi Nair,40,Female,O+,Oncology,2024-03-02,2024-03-13,C53,Cervical Cancer,Dr. Vijay Menon,195000,156000,39000,Paid,11,Yes,3
+P043,Jayesh Shah,46,Male,B+,Orthopedics,2024-03-03,2024-03-08,S72,Hip Fracture,Dr. Arjun Mehta,130000,104000,26000,Paid,5,No,4
+P044,Leela Krishnan,57,Female,A-,Endocrinology,2024-03-04,2024-03-06,E05,Hyperthyroidism,Dr. Kavita Joshi,18000,14400,3600,Paid,2,No,5
+P045,Mohan Das,53,Male,O+,Pulmonology,2024-03-05,2024-03-11,J96,Respiratory Failure,Dr. Anand Kumar,115000,92000,23000,Paid,6,Yes,2
+P046,Saroja Devi,29,Female,B-,General Medicine,2024-03-06,2024-03-07,A01,Typhoid Fever,Dr. Ramesh Pillai,11000,8800,2200,Paid,1,No,5
+P047,Krishnamurthy,66,Male,AB+,Nephrology,2024-03-07,2024-03-16,N17,Acute Kidney Injury,Dr. Suresh Babu,160000,128000,32000,Paid,9,Yes,3
+P048,Bhavani Reddy,31,Female,O+,Gynecology,2024-03-08,2024-03-10,O82,Caesarean Delivery,Dr. Sunita Rao,65000,52000,13000,Paid,2,No,4
+P049,Selvam Pillai,59,Male,A+,Neurology,2024-03-09,2024-03-16,I63,Ischemic Stroke,Dr. Neha Sharma,135000,108000,27000,Paid,7,Yes,2
+P050,Indira Sharma,45,Female,B+,Cardiology,2024-03-10,2024-03-16,I42,Cardiomyopathy,Dr. Priya Nair,98000,78400,19600,Pending,6,No,3
+P051,Venugopal K,68,Male,O-,Oncology,2024-03-11,2024-03-22,C22,Liver Cancer,Dr. Vijay Menon,340000,272000,68000,Paid,11,Yes,2
+P052,Saranya Nair,23,Female,A+,General Medicine,2024-03-12,2024-03-13,K35,Appendicitis,Dr. Ramesh Pillai,32000,25600,6400,Paid,1,No,5
+P053,Babu Krishnan,51,Male,B+,Orthopedics,2024-03-13,2024-03-19,M23,Knee Meniscus Tear,Dr. Arjun Mehta,78000,62400,15600,Paid,6,No,4
+P054,Geetha Pillai,36,Female,AB+,Dermatology,2024-03-14,2024-03-15,L60,Nail Disorder,Dr. Preethi Das,3500,2800,700,Paid,1,No,5
+P055,Prasad Iyer,74,Male,O+,Cardiology,2024-03-15,2024-03-23,I26,Pulmonary Embolism,Dr. Priya Nair,175000,140000,35000,Paid,8,Yes,3
+P056,Sumathi Rao,42,Female,A-,Endocrinology,2024-03-16,2024-03-18,E66,Obesity,Dr. Kavita Joshi,14000,11200,2800,Paid,2,No,4
+P057,Balaji Menon,48,Male,B+,Pulmonology,2024-03-17,2024-03-23,J15,Bacterial Pneumonia,Dr. Anand Kumar,55000,44000,11000,Paid,6,No,4
+P058,Yamuna Devi,61,Female,O+,Nephrology,2024-03-18,2024-03-27,N19,Unspecified Renal Failure,Dr. Suresh Babu,125000,100000,25000,Paid,9,No,3
+P059,Ramachandran,55,Male,A+,Neurology,2024-03-19,2024-03-26,G35,Multiple Sclerosis,Dr. Neha Sharma,88000,70400,17600,Paid,7,No,3
+P060,Chitra Nambiar,38,Female,B-,Gynecology,2024-03-20,2024-03-22,N73,Pelvic Inflammatory Disease,Dr. Sunita Rao,22000,17600,4400,Paid,2,No,4
